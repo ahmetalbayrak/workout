@@ -3,3 +3,17 @@ h1 {
     color: red;
 
 }
+
+.bold { 
+    font-style: bold;
+}
+
+.italic {
+    font-style: italic;
+    
+}
+
+.red-big-text {
+    color: red;
+    font-size: 6em;
+}
