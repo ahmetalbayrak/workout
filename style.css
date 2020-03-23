@@ -4,16 +4,9 @@ h1 {
 
 }
 
-.bold { 
-    font-style: bold;
-}
-
-.italic {
-    font-style: italic;
-    
-}
-
-.red-big-text {
+.bold-italic-red {
     color: red;
-    font-size: 6em;
+    font-style: italic;
+
 }
+
